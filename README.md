@@ -13,7 +13,6 @@ Languages and Tools...
 </p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trulyNathan2&show_icons=true)
 
   
   
