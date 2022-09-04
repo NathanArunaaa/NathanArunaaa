@@ -1,9 +1,4 @@
-### 📊 Github Stats
-<a href='https://github.com/trulyNathan2/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/trulyNathan2/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/trulyNathan2/github-stats-transparent/output/generated/languages.svg)
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trulyNathan2)](https://github.com/anuraghazra/github-readme-stats)
 </a>
 <h1 align="center">
 Languages and Tools...
