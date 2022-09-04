@@ -14,7 +14,5 @@ Languages and Tools...
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=trulyNathan2)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trulyNathan2)](https://github.com/anuraghazra/github-readme-stats)
-
 ![IMG_2341](https://user-images.githubusercontent.com/88948653/182056535-ba4efadb-b6e8-46c6-a9f3-6cb541bccc14.jpeg)
 
