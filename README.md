@@ -20,15 +20,3 @@ Languages and Tools...
 
 ![IMG_2341](https://user-images.githubusercontent.com/88948653/182056535-ba4efadb-b6e8-46c6-a9f3-6cb541bccc14.jpeg)
 
-<h1 align="center">
-UI Portfolio
-</h1>
-<p align="center">
-![image](https://user-images.githubusercontent.com/88948653/210026093-4954dbe6-591a-49db-ae25-7db7ba8f3b8e.png)
-  ![image](https://user-images.githubusercontent.com/88948653/210026115-6fdda470-5862-4a2e-b322-9bdf8442563e.png)
-![image](https://user-images.githubusercontent.com/88948653/210026154-fe64833a-f0b6-479c-9aef-710641698b29.png)
-  ![image](https://user-images.githubusercontent.com/88948653/210026167-0643c6c5-d509-4683-9c3d-fa4bef762580.png)
-
-
-
-</p>
