@@ -4,7 +4,7 @@
 
   
   
+![IMG_7869 (2)](https://github.com/NathanArunaaa/NathanArunaaa/assets/88948653/7334eaf9-405f-4b06-8186-2a110003d07c)
 
 
-![IMG_2341](https://user-images.githubusercontent.com/88948653/182056535-ba4efadb-b6e8-46c6-a9f3-6cb541bccc14.jpeg)
 
