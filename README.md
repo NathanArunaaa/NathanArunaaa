@@ -14,12 +14,12 @@
 
 
 
-  
+  [![](https://visitcount.itsvg.in/api?id=NathanArunaaa&icon=0&color=0)](https://visitcount.itsvg.in)
+
  </span>
  
  </div>
 
-[![](https://visitcount.itsvg.in/api?id=NathanArunaaa&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
