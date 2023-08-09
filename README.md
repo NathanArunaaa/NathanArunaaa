@@ -11,18 +11,17 @@
   [![](https://visitcount.itsvg.in/api?id=NathanArunaaa&icon=0&color=0)](https://visitcount.itsvg.in)
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NathanArunaaa&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=NathanArunaaa&theme=react&hide_border=false)
 
  </span>
 
  </div>
 
- ![](https://github-readme-streak-stats.herokuapp.com/?user=NathanArunaaa&theme=react&hide_border=false)
 
 
 
 
   
-![348293386_557502176564143_3756657696852529051_n](https://github.com/NathanArunaaa/NathanArunaaa/assets/88948653/8ca93461-b74a-4c96-a703-82211f8ffc81)
 
 ![IMG_7869 (2)](https://github.com/NathanArunaaa/NathanArunaaa/assets/88948653/7334eaf9-405f-4b06-8186-2a110003d07c)
 
