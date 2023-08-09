@@ -24,9 +24,9 @@
 
 
   
-  
+![348293386_557502176564143_3756657696852529051_n](https://github.com/NathanArunaaa/NathanArunaaa/assets/88948653/8ca93461-b74a-4c96-a703-82211f8ffc81)
+
 ![IMG_7869 (2)](https://github.com/NathanArunaaa/NathanArunaaa/assets/88948653/7334eaf9-405f-4b06-8186-2a110003d07c)
 
 
 
-![348293386_557502176564143_3756657696852529051_n](https://github.com/NathanArunaaa/NathanArunaaa/assets/88948653/8ca93461-b74a-4c96-a703-82211f8ffc81)
