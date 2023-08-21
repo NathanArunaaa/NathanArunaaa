@@ -9,7 +9,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=NathanArunaaa&theme=prussian&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=prussian)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
 ---
