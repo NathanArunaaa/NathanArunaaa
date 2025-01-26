@@ -2,7 +2,7 @@
 <h2 align="left">Hi 👋! My name is Nathan and I'm a student from Montreal, QC</h2>
 
 
-
+## 🔧 Technologies & Tools
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
