@@ -1,6 +1,5 @@
 
 # 🚀 WELCOME TO MY PROFILE
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=NathanArunaaa&theme=prussian&hide_border=false)<br/>
 ## 🔧 Technologies & Tools
 
@@ -12,6 +11,7 @@
 ![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-SwiftUI-informational?style=flat&logo=swift&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=6aa6f8)
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 
 [![](https://visitcount.itsvg.in/api?id=NathanArunaaa&icon=3&color=0)](https://visitcount.itsvg.in)
